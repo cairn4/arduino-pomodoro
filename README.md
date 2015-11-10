@@ -23,5 +23,11 @@ Once the 25 minutes is up, the display flashes and beeps the piezo buzzer.
  * 10KΩ resistor
  * Wire
 
+## Additional Libraries Used
+
+ * [Adafruit LED Backpack library from github](https://github.com/adafruit/Adafruit-LED-Backpack-Library)
+ * [Adafruit GFX library](https://github.com/adafruit/Adafruit-GFX-Library)
+
+
 ## Wiring Diagram
 ![Image Wiring diagram](https://s3.amazonaws.com/cairn4/pomodoro_sketch.jpg)
