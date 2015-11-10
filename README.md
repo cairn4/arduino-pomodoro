@@ -25,7 +25,7 @@ Once the 25 minutes is up, the display flashes and beeps the piezo buzzer.
 
 ## Additional Libraries Used
 
- * [Adafruit LED Backpack library from github](https://github.com/adafruit/Adafruit-LED-Backpack-Library)
+ * [Adafruit LED Backpack library](https://github.com/adafruit/Adafruit-LED-Backpack-Library)
  * [Adafruit GFX library](https://github.com/adafruit/Adafruit-GFX-Library)
 
 
