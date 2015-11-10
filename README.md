@@ -12,5 +12,16 @@ Long pressing the button (for just over a second) resets the timer back to 25 mi
 
 Once the 25 minutes is up, the display flashes and beeps the piezo buzzer.
 
+## Materials Used
+
+ * Arduino Uno Rev 3
+ * 9v battery or USB cable for power
+ * Adafruit Mini 8x8 LED Matrix w/I2C Backpack
+ * Breadboard
+ * Piezo buzzer
+ * Push button
+ * 10KΩ resistor
+ * Wire
+
 ## Wiring Diagram
 ![Image Wiring diagram](https://s3.amazonaws.com/cairn4/pomodoro_sketch.jpg)
