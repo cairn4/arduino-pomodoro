@@ -4,13 +4,13 @@ A simple Arduino [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Techniq
 
 ## How it works
 
-Each of the 25 minutes is represented by an LED, that form a 5x5 grid. As the timer counts down, the current minute it's on blinks. 
+Each minute is represented by a single LED. The LEDs form a 5x5 grid. As the timer counts down, the current minute's LED blinks. After that minute is up, its LED is turned off.  E.g. 10 LEDs on, then there's 10 minutes left.
 
 Pressing the button quickly pauses and unpauses the timer. A paused "icon" shows in the bottom right corner of the display when the timer isn't running.
 
 Long pressing the button (for just over a second) resets the timer back to 25 minutes. 
 
-Once the 25 minutes is up, the display flashes and beeps the piezo buzzer.
+Once the 25 minutes is up, the display flashes and the piezo buzzer beeps briefly.
 
 ## Materials Used
 
